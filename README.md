@@ -1,6 +1,5 @@
 # Go Country API
 
-[documentation](http://)
 
 ## Start
 
